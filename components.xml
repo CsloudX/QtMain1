@@ -1,0 +1,696 @@
+<Packages>
+    <ApplicationName>Qt 5.9.4</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>qt</Name>
+        <Title>Qt 5.9.4</Title>
+        <Description>Qt 5.9.4</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.license.thirdparty,qt.license.lgpl</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594</Name>
+        <Title>Qt 5.9.4</Title>
+        <Description>Qt 5.9.4</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.android_armv7</Name>
+        <Title>Android ARMv7</Title>
+        <Description>Qt 5.9.4 Prebuilt Components for Android ARMv7</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>142681690</Size>
+        <Dependencies>qt.tools.qtcreator,qt.594.doc,qt.594.examples,qt.tools.win32_mingw530</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.doc</Name>
+        <Title>Qt 5.9.4 Documentation</Title>
+        <Description>Qt 5.9.4 documentation</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>498320744</Size>
+        <Dependencies>qt.tools</Dependencies>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.doc.qtcharts</Name>
+        <Title>Documentation for Qt 5.9.4 GPLv3 components (QtCharts)</Title>
+        <Description>Documentation for Qt 5.9.4 GPLv3 components (QtCharts)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>18155058</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.doc.qtdatavis3d</Name>
+        <Title>Documentation for Qt 5.9.4 GPLv3 components (QtDataVisualization)</Title>
+        <Description>Documentation for Qt 5.9.4 GPLv3 components (QtDataVisualization)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>19093771</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.doc.qtnetworkauth</Name>
+        <Title>Documentation for Qt Networkauth (Technology Preview)</Title>
+        <Description>Documentation for Qt Networkauth (Technology Preview)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>931549</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.doc.qtpurchasing</Name>
+        <Title>Documentation for Qt 5.9.4 GPLv3 components (QtPurchasing)</Title>
+        <Description>Documentation for Qt 5.9.4 GPLv3 components (QtPurchasing)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>1206744</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.doc.qtremoteobjects</Name>
+        <Title>Documentation for Qt Remote Objects (Technology Preview)</Title>
+        <Description>Documentation for Qt Remote Objects (Technology Preview)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>1254364</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.doc.qtscript</Name>
+        <Title>Documentation for Qt 5.9.4 Deprecated components (QtScript)</Title>
+        <Description>Documentation for Qt 5.9.4 Deprecated components (QtScript)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>4230302</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.doc.qtspeech</Name>
+        <Title>Documentation for Qt Speech (Technology Preview)</Title>
+        <Description>Documentation for Qt Speech (Technology Preview)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>587444</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.doc.qtvirtualkeyboard</Name>
+        <Title>Documentation for Qt 5.9.4 GPLv3 components (QtVirtualKeyboard)</Title>
+        <Description>Documentation for Qt 5.9.4 GPLv3 components (QtVirtualKeyboard)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>2189793</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.doc.qtwebengine</Name>
+        <Title>Documentation for QtWebEngine</Title>
+        <Description>Documentation for QtWebEngine</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>12306691</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.examples</Name>
+        <Title>Qt 5.9.4 Examples</Title>
+        <Description>Qt 5.9.4 Examples</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>95154175</Size>
+        <Dependencies>qt.tools</Dependencies>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.examples.qtcharts</Name>
+        <Title>Examples for Qt 5.9.4 GPLv3 components (QtCharts)</Title>
+        <Description>Examples for Qt 5.9.4 GPLv3 components (QtCharts)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>520760</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.examples.qtdatavis3d</Name>
+        <Title>Examples for Qt 5.9.4 GPLv3 components (QtDataVisualization)</Title>
+        <Description>Examples for Qt 5.9.4 GPLv3 components (QtDataVisualization)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>5879240</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.examples.qtnetworkauth</Name>
+        <Title>Examples for Qt Networkauth (Technology Preview)</Title>
+        <Description>Examples for Qt Networkauth (Technology Preview)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>115752</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.examples.qtpurchasing</Name>
+        <Title>Examples for Qt 5.9.4 GPLv3 components (QtPurchasing)</Title>
+        <Description>Examples for Qt 5.9.4 GPLv3 components (QtPurchasing)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>345035</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.examples.qtremoteobjects</Name>
+        <Title>Examples for Qt Remote Objects (Technology Preview)</Title>
+        <Description>Examples for Qt Remote Objects (Technology Preview)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>145925</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.examples.qtscript</Name>
+        <Title>Examples for Qt 5.9.4 Deprecated components (QtScript)</Title>
+        <Description>Examples for Qt 5.9.4 Deprecated components (QtScript)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>315180</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.examples.qtspeech</Name>
+        <Title>Examples for Qt Speech (Technology Preview)</Title>
+        <Description>Examples for Qt Speech (Technology Preview)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>58611</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.examples.qtvirtualkeyboard</Name>
+        <Title>Examples for Qt 5.9.4 GPLv3 components (QtVirtualKeyboard)</Title>
+        <Description>Examples for Qt 5.9.4 GPLv3 components (QtVirtualKeyboard)</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>43733</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.examples.qtwebengine</Name>
+        <Title>Examples for QtWebEngine</Title>
+        <Description>Examples for QtWebEngine</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>2393105</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtcharts</Name>
+        <Title>Qt Charts</Title>
+        <Description>The Qt Charts API lets you easily create interactive and dynamic 2D charts using C++ and/or Qt Quick.</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.594.doc.qtcharts,qt.594.examples.qtcharts</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtcharts.android_armv7</Name>
+        <Title>Qt Charts for Android ARMv7</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>2633846</Size>
+        <Dependencies>qt.594.android_armv7</Dependencies>
+        <AutoDependOn>qt.594.qtcharts,qt.594.android_armv7</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtcharts.win32_msvc2015</Name>
+        <Title>Qt Charts for msvc2015 32-bit</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>5857049</Size>
+        <Dependencies>qt.594.win32_msvc2015</Dependencies>
+        <AutoDependOn>qt.594.qtcharts,qt.594.win32_msvc2015</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtdatavis3d</Name>
+        <Title>Qt Data Visualization</Title>
+        <Description>Qt Data Visualization is a module which provides a way to visualize data in 3D. There are C++ classes and QML types for displaying bar graphs, scatter graphs, surface graphs and ways of manipulating the 3D scene. In addition, the graphs are fully customizable with different themes.</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.594.doc.qtdatavis3d,qt.594.examples.qtdatavis3d</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtdatavis3d.android_armv7</Name>
+        <Title>Qt Data Visualization for Android ARMv7</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>2234423</Size>
+        <Dependencies>qt.594.android_armv7</Dependencies>
+        <AutoDependOn>qt.594.qtdatavis3d,qt.594.android_armv7</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtdatavis3d.win32_msvc2015</Name>
+        <Title>Qt Data Visualization for msvc2015 32-bit</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>6114764</Size>
+        <Dependencies>qt.594.win32_msvc2015</Dependencies>
+        <AutoDependOn>qt.594.qtdatavis3d,qt.594.win32_msvc2015</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtnetworkauth</Name>
+        <Title>Qt Network Auth (TP)</Title>
+        <Description>Qt Network Auth is an add-on library that enables Qt applications to use different web authentication systems.&lt;br>&lt;br>The release of Qt Network Auth with Qt 5.9 is a Technology Preview.</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.594.doc.qtnetworkauth,qt.594.examples.qtnetworkauth</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtnetworkauth.android_armv7</Name>
+        <Title>Qt Network Authentication for Android ARMv7</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>216763</Size>
+        <Dependencies>qt.594.android_armv7</Dependencies>
+        <AutoDependOn>qt.594.qtnetworkauth,qt.594.android_armv7</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtnetworkauth.win32_msvc2015</Name>
+        <Title>Qt Network Authentication for msvc2015 32-bit</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>620297</Size>
+        <Dependencies>qt.594.win32_msvc2015</Dependencies>
+        <AutoDependOn>qt.594.qtnetworkauth,qt.594.win32_msvc2015</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtpurchasing</Name>
+        <Title>Qt Purchasing</Title>
+        <Description>Qt Purchasing. Cross-platform APIs for handling in-app purchases on Android, iOS and macOS.</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.594.doc.qtpurchasing,qt.594.examples.qtpurchasing</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtpurchasing.android_armv7</Name>
+        <Title>Qt Purchasing for Android ARMv7</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>203229</Size>
+        <Dependencies>qt.594.android_armv7</Dependencies>
+        <AutoDependOn>qt.594.qtpurchasing,qt.594.android_armv7</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtpurchasing.win32_msvc2015</Name>
+        <Title>Qt Location for msvc2015 32-bit</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>345987</Size>
+        <Dependencies>qt.594.win32_msvc2015</Dependencies>
+        <AutoDependOn>qt.594.qtpurchasing,qt.594.win32_msvc2015</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtremoteobjects</Name>
+        <Title>Qt Remote Objects (TP)</Title>
+        <Description>Qt Remote Objects is an add-on library that provides an easy way to share Qt APIs between processes/devices.&lt;br>&lt;br>The release of Qt Remote Objects with Qt 5.9 is a Technology Preview.</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.594.doc.qtremoteobjects,qt.594.examples.qtremoteobjects</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtremoteobjects.android_armv7</Name>
+        <Title>Qt Remote Objects for Android ARMv7</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>2560738</Size>
+        <Dependencies>qt.594.android_armv7</Dependencies>
+        <AutoDependOn>qt.594.qtremoteobjects,qt.594.android_armv7</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtremoteobjects.win32_msvc2015</Name>
+        <Title>Qt Remote Objects for msvc2015 32-bit</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>1910788</Size>
+        <Dependencies>qt.594.win32_msvc2015</Dependencies>
+        <AutoDependOn>qt.594.qtremoteobjects,qt.594.win32_msvc2015</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtscript</Name>
+        <Title>Qt Script (Deprecated)</Title>
+        <Description>Qt Script (Deprecated) Prebuilt Components for Qt 5.9.4</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.594.doc.qtscript,qt.594.examples.qtscript</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtscript.android_armv7</Name>
+        <Title>Qt Script for Android ARMv7</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>2500772</Size>
+        <Dependencies>qt.594.android_armv7</Dependencies>
+        <AutoDependOn>qt.594.qtscript,qt.594.android_armv7</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtscript.win32_msvc2015</Name>
+        <Title>Qt Script for msvc2015 32-bit</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>9266501</Size>
+        <Dependencies>qt.594.win32_msvc2015</Dependencies>
+        <AutoDependOn>qt.594.qtscript,qt.594.win32_msvc2015</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtspeech</Name>
+        <Title>Qt Speech (TP)</Title>
+        <Description>The Qt Speech module allows using text to speech engines.&lt;br>&lt;br>The release of Qt Speech with Qt 5.9 is a Technology Preview.</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.594.doc.qtspeech,qt.594.examples.qtspeech</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtspeech.android_armv7</Name>
+        <Title>Qt Speech for Android ARMv7</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>106363</Size>
+        <Dependencies>qt.594.android_armv7</Dependencies>
+        <AutoDependOn>qt.594.qtspeech,qt.594.android_armv7</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtspeech.win32_msvc2015</Name>
+        <Title>Qt Speech for msvc2015 32-bit</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>365520</Size>
+        <Dependencies>qt.594.win32_msvc2015</Dependencies>
+        <AutoDependOn>qt.594.qtspeech,qt.594.win32_msvc2015</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtvirtualkeyboard</Name>
+        <Title>Qt Virtual Keyboard</Title>
+        <Description>The Qt Virtual Keyboard is a Qt Quick virtual keyboard that you can plug in to your platform or application. You can extend it with your own layouts and styles.</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.594.doc.qtvirtualkeyboard,qt.594.examples.qtvirtualkeyboard</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtvirtualkeyboard.win32_msvc2015</Name>
+        <Title>Qt Virtual Keyboard for msvc2015 32-bit</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>1856007</Size>
+        <Dependencies>qt.594.win32_msvc2015</Dependencies>
+        <AutoDependOn>qt.594.qtvirtualkeyboard,qt.594.win32_msvc2015</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtwebengine</Name>
+        <Title>Qt WebEngine</Title>
+        <Description>The Qt WebEngine module integrates the fast moving Chromium web platform into Qt and provides a convenient API for both Qt Widgets and Qt Quick to utilize Chromium's web capabilities. Qt WebEngine takes full benefit of the whole Qt graphics stack integration allowing seamless mix and overlay of native Qt controls with web content and OpenGL shaders.</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.594.doc.qtwebengine,qt.594.examples.qtwebengine</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.qtwebengine.win32_msvc2015</Name>
+        <Title>Qt WebEngine for msvc2015 32-bit</Title>
+        <Description></Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>241625428</Size>
+        <Dependencies>qt.594.win32_msvc2015</Dependencies>
+        <AutoDependOn>qt.594.qtwebengine,qt.594.win32_msvc2015</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.src</Name>
+        <Title>Sources</Title>
+        <Description>Qt 5.9.4 Source Components</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>1900372924</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.594.win32_msvc2015</Name>
+        <Title>msvc2015 32-bit</Title>
+        <Description>Qt 5.9.4 Prebuilt Components for msvc2015 32-bit</Description>
+        <Version>5.9.4-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>429689683</Size>
+        <Dependencies>qt.tools.qtcreator,qt.594.doc,qt.594.examples</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.installer.changelog</Name>
+        <Title>Qt Installer Changelog</Title>
+        <Description></Description>
+        <Version>1.0.2</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>1702</Size>
+        <AutoDependOn>qt</AutoDependOn>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.license.lgpl</Name>
+        <Title>Qt License LGPL</Title>
+        <Description></Description>
+        <Version>1.0.2</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.license.python</Name>
+        <Title>Python Software Foundation License Version 2</Title>
+        <Description></Description>
+        <Version>1.0.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.license.thirdparty</Name>
+        <Title>Qt 3rd Party Licenses</Title>
+        <Description></Description>
+        <Version>1.0.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>23506</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools</Name>
+        <Title>Tools</Title>
+        <Description>IDE, Internationalization, Design and other tools to accelerate development.</Description>
+        <Version>1.0.8-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>0</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.qtcreator</Name>
+        <Title>Qt Creator 4.5.0</Title>
+        <Description>IDE for Qt application development</Description>
+        <Version>4.5.0-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>316147646</Size>
+        <Dependencies>qt.tools.vcredist_msvc2015_x86,qt.tools.vcredist_msvc2015_x64</Dependencies>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+    <Package>
+        <Name>qt.tools.qtcreatorcdbext</Name>
+        <Title>Qt Creator 4.5.0 CDB Debugger Support</Title>
+        <Description>CDB Debugger support for Qt Creator</Description>
+        <Version>4.5.0-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>9757438</Size>
+        <Dependencies>qt.tools.qtcreator,qt.license.python</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.vcredist_msvc2015_x64</Name>
+        <Title>VCRedist for MSVC 2015 64bit</Title>
+        <Description>Visual C++ Redistributable Packages for Visual Studio 2015 64 bit</Description>
+        <Version>2017-03-22-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>14572040</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.vcredist_msvc2015_x86</Name>
+        <Title>VCRedist for MSVC 2015 32bit</Title>
+        <Description>Visual C++ Redistributable Packages for Visual Studio 2015 32 bit</Description>
+        <Version>2017-02-01-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>14456912</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.win32_mingw530</Name>
+        <Title>MinGW 5.3.0</Title>
+        <Description>MinGW-builds 5.3.0 32 bit toolchain.</Description>
+        <Version>5.3.0-2</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-04-14</InstallDate>
+        <Size>400664148</Size>
+        <Dependencies>qt.tools.qtcreator</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+</Packages>
